@@ -3,6 +3,7 @@
 ## problems to solve
 - project tooling/dependency management
   - nx manages all main project tooling/configuration and dependencies
+  - this frees developers from having to spend time researching the correct combination of dependencies that all work together
 - task running
   - nx has built in task runner with advanced coordination abilities and caching
 - ability to break project apart into modularized packages that can be combined in arbitrary manners
