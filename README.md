@@ -24,7 +24,6 @@
 ## resources
 - [nx techcrunch](https://techcrunch.com/2022/11/17/with-8-6m-in-seed-funding-nx-wants-to-take-monorepos-mainstream)
 - [illustrated dte](https://nx.dev/more-concepts/illustrated-dte)
-- [Why monorepo](https://nx.dev/more-concepts/why-monorepos)
 - [Micro Front Ends](https://techblog.geekyants.com/building-a-micro-frontend-using-react-and-angular)
 - [Why Monorepos?](./why-monorepos.md)
 
