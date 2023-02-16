@@ -1,6 +1,6 @@
 # nx pitch notes
 
-## Glossary
+## Index
 [Why Monorepos?](./why-monorepos.md)
 
 ## problems to solve
