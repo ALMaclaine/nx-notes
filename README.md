@@ -10,7 +10,8 @@
   - this frees developers from having to spend time researching the correct combination of dependencies that all work together
 - task running
   - nx has built in task runner with advanced coordination abilities and caching
-  - replaces ad hoc script running tooling with integrated task runners that understand the projects structure
+  - tasks include linting, testing, formating, building, integration testing or any custom task we need
+  - replaces ad hoc script runner tooling with integrated task runners that understand the projects structure
 - ability to break project apart into modularized packages that can be combined in arbitrary manners
   - nx helps generate and orchestrate modularized node packages
   - facilitates breaking app apart by feature, by page, by domain/subdomain
