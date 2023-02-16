@@ -10,6 +10,8 @@
   - nx helps generate and orchestrate modularized node packages
   - facilitates breaking app apart by feature, by page, by domain/subdomain
   - facilitates micro front ends
+  - modularizing and recombining packages to form the application allows for adept architectural changes. (i.e. moving from react router to nextjs)
+  - facilitates scoped development using storybook, features can be developed in isolation and then integrated into main app
 - long build/test cycles
   - nx caches build results which can be shared amongst developers and ci/cd platforms
   - dependency graph analysis, test/build only what changed
