@@ -12,6 +12,10 @@
   - nx helps generate and orchestrate modularized node packages
   - facilitates breaking app apart by feature, by page, by domain/subdomain
   - facilitates micro front ends
+- long build/test cycles
+  - nx caches build results which can be shared amongst developers and ci/cd platforms
+  - dependency graph analysis, test/build only what changed
+  - incremental builds, build sub packages into final result, avoid re-building unchanged code 
 
 ## resources
 - [nx techcrunch](https://techcrunch.com/2022/11/17/with-8-6m-in-seed-funding-nx-wants-to-take-monorepos-mainstream)
