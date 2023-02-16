@@ -4,7 +4,7 @@
 - enterprise monorepo orchestration tooling and SAAS
 - created by ex-Google engineers (Angular Maintainer) based on Google's Bazel
 
-## problems to solve
+## Problems to solve
 - project tooling/dependency management
   - nx manages all main project tooling/configuration and dependencies
   - this frees developers from having to spend time researching the correct combination of dependencies that all work together
