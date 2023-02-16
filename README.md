@@ -19,6 +19,7 @@
 - understanding structure of large code base
   - by breaking project into many packages, we can trace the interconnections using dependency graph analysis
   - visualize code structure using graphs
+  - facilitates operating on the affected path
 
 ## resources
 - [nx techcrunch](https://techcrunch.com/2022/11/17/with-8-6m-in-seed-funding-nx-wants-to-take-monorepos-mainstream)
