@@ -1,0 +1,21 @@
+# Why Monorepos?
+
+- [What are the benefits of a monorepo?](https://nx.dev/more-concepts/why-monorepos#what-are-the-benefits-of-a-monorepo)
+  - Shared code and visibility
+  - Atomic changes
+  - Developer mobility
+  - Single set of dependencies
+- [Why not just code colocation?](https://nx.dev/more-concepts/why-monorepos#why-not-just-code-collocation)
+  - Running unnecessary tests
+  - No code boundaries
+  - Inconsistent tooling
+- [Nx + code collocation = monorepo](https://nx.dev/more-concepts/why-monorepos#nx-+-code-collocation-=-monorepo)
+  - [Scaling your monorepo with Nx](https://nx.dev/more-concepts/why-monorepos#scaling-your-monorepo-with-nx)
+    - Consistent Command Execution
+    - Consistent Code Generation
+    - Affected Commands
+    - Distributed Caching
+  - [Scaling your organization with Nx](https://nx.dev/more-concepts/why-monorepos#scaling-your-organization-with-nx)
+    - Controlled Code Sharing
+    - Consistent Code Generation
+    - Accurate Architecture Diagram
