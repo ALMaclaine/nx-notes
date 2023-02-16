@@ -1,5 +1,9 @@
 # nx pitch notes
 
+## What is nx
+- enterprise monorepo orchestration tooling and SAAS
+- created by ex-Google engineers (Angular Maintainer) based on Google's Bazel
+
 ## problems to solve
 - project tooling/dependency management
   - nx manages all main project tooling/configuration and dependencies
