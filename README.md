@@ -24,21 +24,21 @@
 - facilitates scoped development using storybook, features can be developed in isolation and then integrated into main app
 
 ### Long build/test cycles
-- nx caches build results which can be shared amongst developers and ci/cd platforms
+- nx caches build results which can be shared between developers and ci/cd platforms
 - dependency graph analysis, test/build only what changed
 - incremental builds, build sub packages into final result, avoid re-building unchanged code
 
 ### Understanding structure of large code base
 - by breaking project into many packages, we can trace the interconnections using dependency graph analysis
 - visualize code structure using graphs
-- facilitates operating on the affected path
+- facilitates operating on the affected/changed path
 
 ### Lack of resources to look to when problems occur with tooling/project
 - nrwl the creators of NX are a consulting company, you can pay them to help with whatever problems you're facing
 
 
 ## Alternatives to NX
-- There are several monorepo coordination tools, but NX has the most features, support and is the only one with distributed task execution and SAAS support
+- There are several monorepo coordination tools, but NX has the most features, support and is the only one with distributed task execution and SAAS support, it also seems to be the fastest
 
 ## Risks
 - Although well funded nrwl could fail, however nx is an open source project with nearly 20k stars on github and 3 million npm downloads a week, very likely support would be picked up by community or another company. Additionally, the nx tooling is mostly a thin layer on top of standardized JS tooling, bailing out to another monorepo tool or running a custom solution is probably reasonable.
