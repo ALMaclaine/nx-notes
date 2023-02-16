@@ -15,7 +15,7 @@
 - ability to break project apart into modularized packages that can be combined in arbitrary manners
   - nx helps generate and orchestrate modularized node packages
   - facilitates breaking app apart by feature, by page, by domain/subdomain
-  - facilitates micro front ends
+  - facilitates micro front ends (see Micro Front Ends in resources for more info)
   - modularizing and recombining packages to form the application allows for adept architectural changes. (i.e. moving from react router to nextjs)
   - facilitates scoped development using storybook, features can be developed in isolation and then integrated into main app
 - long build/test cycles
