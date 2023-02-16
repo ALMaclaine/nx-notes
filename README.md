@@ -33,8 +33,8 @@
   - visualize code structure using graphs
   - facilitates operating on the affected path
 
-### Lack of resources to look to when problems occur with tooling
-  - nrwl the creators of NX are also a consulting company, you can pay them to help with whatever problems you're facing 
+### Lack of resources to look to when problems occur with tooling/project
+  - nrwl the creators of NX are a consulting company, you can pay them to help with whatever problems you're facing 
 
 ## resources
 - [nx techcrunch](https://techcrunch.com/2022/11/17/with-8-6m-in-seed-funding-nx-wants-to-take-monorepos-mainstream)
