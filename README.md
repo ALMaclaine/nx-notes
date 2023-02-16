@@ -1,8 +1,5 @@
 # nx pitch notes
 
-## Index
-[Why Monorepos?](./why-monorepos.md)
-
 ## problems to solve
 - project tooling/dependency management
   - nx manages all main project tooling/configuration and dependencies
@@ -25,6 +22,7 @@
 - [illustrated dte](https://nx.dev/more-concepts/illustrated-dte)
 - [Why monorepo](https://nx.dev/more-concepts/why-monorepos)
 - [Micro Front Ends](https://techblog.geekyants.com/building-a-micro-frontend-using-react-and-angular)
+- [Why Monorepos?](./why-monorepos.md)
 
 ## demos
 - [large monorepo](https://github.com/vsavkin/large-monorepo)
