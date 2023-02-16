@@ -1,5 +1,8 @@
 # nx pitch notes
 
+## Glossary
+[Why Monorepos?](./why-monorepos.md)
+
 ## problems to solve
 - project tooling/dependency management
   - nx manages all main project tooling/configuration and dependencies
