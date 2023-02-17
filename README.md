@@ -1,10 +1,10 @@
-# nx pitch notes
+# nx pitch 
 
 ## What is nx
 - enterprise monorepo orchestration tooling and SAAS
 - created by ex-Google engineers (Angular Maintainer) based on Google's Bazel
 
-## Problems to solve
+## Problems to Solve
 
 ### Project tooling/dependency management
 - nx manages all main project tooling/configuration and dependencies
@@ -47,13 +47,13 @@
 ## Risks
 - Although well funded nrwl could fail, however nx is an open source project with nearly 20k stars on github and 3 million npm downloads a week, very likely support would be picked up by community or another company. Additionally, the nx tooling is mostly a thin layer on top of standardized JS tooling, bailing out to another monorepo tool or running a custom solution is probably reasonable.
 
-## resources
+## Resources
 - [nx techcrunch](https://techcrunch.com/2022/11/17/with-8-6m-in-seed-funding-nx-wants-to-take-monorepos-mainstream)
 - [illustrated dte](https://nx.dev/more-concepts/illustrated-dte)
 - [Micro Front Ends](https://techblog.geekyants.com/building-a-micro-frontend-using-react-and-angular)
 - [Why Monorepos?](./why-monorepos.md)
 
-## demos
+## Demos
 - [large monorepo](https://github.com/vsavkin/large-monorepo)
 - [dte](https://github.com/vsavkin/lerna-dte)
 
