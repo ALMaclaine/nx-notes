@@ -33,8 +33,9 @@
 - visualize code structure using graphs
 - facilitates operating on the affected/changed path
 
-### reorganizing a repo is difficult
+### Reorganizing a repo is difficult
 - nx has tooling to automatically rename/move packages and have all imports updated automatically
+- has dry run capabilities to see every file that would be changed/moved before execution
 
 ### Lack of resources to look to when problems occur with tooling/project
 - nrwl the creators of NX are a consulting company, you can pay them to help with whatever problems you're facing
