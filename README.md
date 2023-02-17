@@ -10,6 +10,9 @@
 - nx manages all main project tooling/configuration and dependencies
 - this frees developers from having to spend time researching the correct combination of dependencies that all work together
 
+### Updating is hard
+- nx updates in migrations, updating all dependencies and then creates migrations to update any configurations that need to changed which are stored in version control
+
 ### Task running
 - nx has built in task runner with advanced coordination abilities and caching
 - tasks include linting, testing, formating, building, integration testing or any custom task we need
