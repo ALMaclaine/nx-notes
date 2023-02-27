@@ -26,6 +26,10 @@
 - modularizing and recombining packages to form the application allows for adept architectural changes. (i.e. moving from react router to nextjs)
 - facilitates scoped development using storybook, features can be developed in isolation and then integrated into main app
 
+### Build problems in one area of the app stall merges in others
+- Flaky tests in one part of the app can prevent merges for non-related PRs.
+- breaking project apart and using dependency graph analysis allows targeted testing of only the change path
+
 ### Long build/test cycles
 - nx caches build results which can be shared between developers and ci/cd platforms
 - dependency graph analysis, test/build only what changed
